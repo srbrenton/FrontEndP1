@@ -1,63 +1,63 @@
 body {
- 	color: #666;
-	font-family: Verdana, Helvetica, Arial, sans-serif;
-    font-size: 14px;
+  color: #666;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 14px;
 }
 
 h1 {
-	font-size: 48px;
-	padding-top: 26px;
+  font-size: 48px;
+  padding-top: 26px;
 }
 
 h2 {
-	font-size: 24px;
-	color: #f07c17;
-	font-weight: bold;
+  font-size: 24px;
+  color: #f07c17;
+  font-weight: bold;
 }
 
-ul	{
-	padding-top: 25px;
-	font-size: 16px;
+ul {
+  padding-top: 25px;
+  font-size: 16px;
 }
 
 li {
-	padding-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 p {
-	font-size: 16px;
-	line-height: 32px;
-	margin-right: 16px;
+  font-size: 16px;
+  line-height: 32px;
+  margin-right: 16px;
 }
 
 .mughead {
-	margin-left: -12px;
+  margin-left: -12px;
 }
 
 .mugimg {
-	margin-left: 1px;
-	padding-top: 20px;
+  margin-left: 1px;
+  padding-top: 20px;
 }
 
 .muglist {
-		margin-top: 29px;
-        margin-left: -1px;
-        margin-right: 1px;
-		padding-left: 30px;
-		padding-top: 10px;
-		padding-bottom: 25px;
-		border-color: #ccc;
-		border-style: solid;
-		border-width: 1px;
+  margin-top: 29px;
+  margin-left: -1px;
+  margin-right: 1px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  border-color: #ccc;
+  border-style: solid;
+  border-width: 1px;
 
 }
 
 .mugstory {
-	margin-left: 418px;
+  margin-left: 418px;
 }
 
-	.mugtext {
-	padding-top: 19px;
-	margin-left: 2px;
-	
+  .mugtext {
+  padding-top: 19px;
+  margin-left: 2px;
+  
 }
