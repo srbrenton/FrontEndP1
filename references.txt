@@ -1,0 +1,6 @@
+References:
+
+	Various links in Udacity Intro to HTML
+	O'Reilly CSS Pocket Reference 2nd Edition
+	Castro "HTML for the WWW" 5th Edition
+	
